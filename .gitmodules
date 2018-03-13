@@ -1,0 +1,4 @@
+[submodule "securityLib_firstBranch"]
+	path = securityLib_firstBranch
+	url = https://github.com/KarimMousa89/securityLib
+	branch = firstBranch
